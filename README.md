@@ -1,4 +1,4 @@
-## Hi there 👋 my nickname is Yepo! 🚀
+## Hi there 👋 I'm Yepo! 🚀
 
 I am a software developer in continuous training with a hybrid focus: I am deeply passionate about both **creating inclusive web platforms** and **developing video games and interactive experiences**. 
 
