@@ -5,7 +5,6 @@ I am a software developer in continuous training with a hybrid focus: I am deepl
 My goal is to write clean code and build solutions where technology has no barriers, whether that means ensuring a webpage is accessible to everyone or designing immersive game mechanics.
 
 🎓 **Education:** B.S. Student in Multimedia and Digital Animation
-🌱 **Currently:** Leading an indie game studio and honing my Full Stack development skills.
 
 ---
 
